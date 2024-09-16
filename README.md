@@ -1,4 +1,4 @@
-The files contains general exploration of datasets that include different fire weather conditions downloaded from the manitoba goverment website.
+The files contains general exploration of datasets that includes different fire weather conditions downloaded from the manitoba goverment website.
 These have cleaning and transformation process.
 Statistical exploration to handled missing values or outliers.
 Feature selection analysis.
