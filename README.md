@@ -2,7 +2,7 @@ The files contains general exploration of datasets that includes different fire 
 These have cleaning and transformation process.
 Statistical exploration to handled missing values or outliers.
 Feature selection analysis.
-Application of different Machine Learning Models.
+Development of different Machine Learning Models.
 Verification of those models with new data.
 Statistical analysis of each model.
 Conclusions and finding for the best model.
